@@ -5,6 +5,7 @@ public class Shoters {
 
         System.out.println("RedDragon");
         System.out.println("İyi günler");
+        System.out.println("Tesekkur ederim");
 
     }
 }
